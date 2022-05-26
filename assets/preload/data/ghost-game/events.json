@@ -1,0 +1,49 @@
+{
+	"song": {
+		"speed": 3.1,
+		"stage": null,
+		"player1": "bf",
+		"player2": "gf",
+		"player3": null,
+		"events": [
+			[
+				2553.1914893617,
+				[
+					[
+						"Change Scroll Speed",
+						"1",
+						"99"
+					]
+				]
+			],
+			[
+				63829.7872340426,
+				[
+					[
+						"Change Scroll Speed",
+						"1.1",
+						"99"
+					]
+				]
+			],
+			[
+				125106.382978723,
+				[
+					[
+						"Change Scroll Speed",
+						"1",
+						"999"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 188,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Ghost-game"
+	}
+}
