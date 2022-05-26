@@ -1,0 +1,21 @@
+{
+	"songs": [
+		["voided", "phantom", [165, 0, 77]],
+		["ghost-game", "phantom", [214, 214, 214]]
+	],
+
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekBackground": "stage",
+
+	"storyName": "phantom",
+	"weekBefore": "",
+	"weekName": "phantom!",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}
