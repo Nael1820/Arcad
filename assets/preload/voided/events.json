@@ -1,0 +1,29 @@
+{
+	"song": {
+		"speed": 2.7,
+		"stage": "stage",
+		"player1": "bf",
+		"player2": "pico",
+		"player3": null,
+		"events": [
+			[
+				34491.0179640718,
+				[
+					[
+						"Change Scroll Speed",
+						"1.12",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 167,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Philly Nice"
+	}
+}
